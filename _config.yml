@@ -1,1 +1,6 @@
+title: Class Act Cake
+description: Lorem Ipsum
+show_downloads: false
 theme: jekyll-theme-cayman
+
+exclude: [./local-test.bat, ./build.bat]
