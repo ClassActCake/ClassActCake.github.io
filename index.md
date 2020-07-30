@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Class Act Cake
-description: Lorem Ipsum
+description: Homepage
+showDescription: false
 ---
 
 # Hi Billie
 
-Main page
+Main page, pictures of delicious cake go here or something idk

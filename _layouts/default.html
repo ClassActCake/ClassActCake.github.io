@@ -13,7 +13,21 @@
     {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    <!-- Set page title, include description if present -->
+    {% if page.showDescription %}
+      <title>{% page.title %} | {% page.description %}</title>
+    {% else %}
+      <title>{% page.title %}</title>
+    {% endif %}
+
+    <!-- SEO stuff-->
+    <meta property="og:title" content="{% page.title %}">
+    <meta property="og:locale" content="en_GB">
+    <meta name="description" content="{% page.description %}">
+    <meta property="og:description" content="{% page.description %}">
+    <meta property="og:site_name" content="{% site.title %}">
+    
+    <!-- Logo stuff -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
