@@ -1,0 +1,21 @@
+I"�<h1 id="page-template">Page template</h1>
+
+<p><code class="language-plaintext highlighter-rouge">layout</code> should be left as is, unless we add a different layout in the future</p>
+
+<p><code class="language-plaintext highlighter-rouge">title</code> is the page title, shown in the tab title</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">showSiteTitle</code> is whether or not the site title is shown in the tab title, for example if set to true a page would be shown as being “Class Act Cake</td>
+      <td>About” rather than just “About”</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><code class="language-plaintext highlighter-rouge">description</code> is the page description</p>
+
+<p><code class="language-plaintext highlighter-rouge">showDescription</code> currently does nothing other than help SEO</p>
+
+<p><code class="language-plaintext highlighter-rouge">hideFooter</code> can be used to hide the “go back” button at the bottom of each page</p>
+:ET

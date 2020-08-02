@@ -1,0 +1,29 @@
+I"¦<h1 id="portfolio">Portfolio</h1>
+
+<h2 id="rose-cupcakes">Rose Cupcakes</h2>
+<p><img src="/assets/images/photos/RoseCupcakes/cupcakes.jpeg" alt="Cupcakes" /></p>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<p><img src="/assets/images/photos/RoseCupcakes/fondantRealism.jpeg" alt="Realistic fondant flowers" /></p>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<h2 id="white-chcocolate-galore">White Chcocolate Galore</h2>
+<p><img src="/assets/images/photos/WhiteChocolateGalore/whiteChoc1.jpeg" alt="White Chocolate Galore" /></p>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<p><img src="/assets/images/photos/WhiteChocolateGalore/whiteChoc2.jpeg" alt="White Chocolate Galore" /></p>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<h2 id="milk-chcocolate-galore">Milk Chcocolate Galore</h2>
+<p><img src="/assets/images/photos/MilkChocolateGalore/milkChoc1.jpeg" alt="Milk Chocolate Galore" /></p>
+
+<p>Lorem ipsum dolor sit amet</p>
+
+<hr />
+
+<p><a href="../">back</a></p>
+:ET

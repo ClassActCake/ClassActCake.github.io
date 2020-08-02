@@ -2,11 +2,11 @@
 layout: default
 title: Class Act Cake
 description: Homepage
+showSiteTitle: false
 showDescription: false
+hideFooter: true
 ---
 
 # Hi Billie
 
-Main page, pictures of delicious cake go here or something idk
-
-![Cupcakes](assets\images\photos\cupcakes.jpeg)
+Main page

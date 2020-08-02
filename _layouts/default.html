@@ -13,9 +13,9 @@
     {% endif %}
     <meta charset="UTF-8">
 
-    <!-- Set page title, include description if present -->
-    {% if page.showDescription %}
-      <title>{{ page.title }} | {{ page.description }}</title>
+    <!-- Set page title, include site title if wanted-->
+    {% if page.showSiteTitle %}
+      <title>{{ site.title }} | {{ page.title }}</title>
     {% else %}
       <title>{{ page.title }}</title>
     {% endif %}
@@ -29,7 +29,6 @@
     
     <!-- Logo stuff -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
@@ -44,25 +43,28 @@
 
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
 
     <header class="page-header" role="banner">
-      <img src="/assets/images/logos/ClassActCakeTransparent1600px.png" alt="Class Act Cake Logo" width=35%>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <!-- Class Act Cake logo, transparent on company colour background -->
+      <img src="/assets/images/logos/ClassActCakeTransparent1600px.png" alt="Class Act Cake Logo" width="35%" style="max-width: 500px">
+      
+      <!-- Nav Buttons -->
+      <div>
+        <a href="/" class="btn">Home</a>
+        <a href="/portfolio" class="btn">Portfolio</a>
+        <a href="/about" class="btn">About</a>
+      </div>      
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
+      
+      {% unless page.hideFooter %}
       <footer class="site-footer">
-        
+        <a href="../">go back</a>
       </footer>
+      {% endunless %}
     </main>
   </body>
 </html>
