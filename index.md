@@ -7,6 +7,6 @@ showDescription: false
 hideFooter: true
 ---
 
-# Hi Billie
+# Class Act Cake
 
-Main page
+![Me with White Chocolate Galore](/assets/images/photos/WhiteChocolateGalore/meWithWhiteChoc2.jpeg)
