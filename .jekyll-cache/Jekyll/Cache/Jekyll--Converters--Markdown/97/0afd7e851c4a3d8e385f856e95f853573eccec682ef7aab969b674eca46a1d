@@ -1,0 +1,19 @@
+I"c<h1 id="build-your-own-cake">Build Your Own Cake</h1>
+
+<form>
+  <h2> Cake Size </h2>
+  <input type="radio" id="small" value="small" name="size" /> Small <br />
+  <input type="radio" id="medium" value="medium" name="size" /> Medium <br />
+  <input type="radio" id="large" value="large" name="size" /> Large <br />
+
+  <h2> Flavour(s) </h2>
+  <input type="checkbox" id="milkChoc" value="milkChoc" name="flavours" /> Small <br />
+
+  First name:<br />
+  <input type="text" name="firstname" /><br />
+  Last name:<br />
+  <input type="text" name="lastname" />
+  <br />
+  <input type="submit" value="Submit" />
+</form>
+:ET
