@@ -8,6 +8,15 @@ showDescription: true
 
 # Portfolio
 
+## Baileys Cake
+![Baileys Cake](/assets/images/photos/BaileysCake/baileysCake1.jpeg)
+
+Lorem ipsum dolor sit amet
+
+![Baileys Cake](/assets/images/photos/BaileysCake/baileysCake2.jpeg)
+
+Lorem ipsum dolor sit amet
+
 ## Rose Cupcakes
 ![Cupcakes](/assets/images/photos/RoseCupcakes/cupcakes.jpeg)
 
