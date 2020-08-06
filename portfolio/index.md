@@ -11,11 +11,11 @@ showDescription: true
 ## Baileys Cake
 ![Baileys Cake](/assets/images/photos/BaileysCake/baileysCake1.jpeg)
 
-Lorem ipsum dolor sit amet
+This cake is a wonderful, rich, and indulgent number. Inside there are four layers of milk chocolate sponge, layered with milk chocolate buttercream and a final layer of Baileys buttercream for that extra flavour.
 
 ![Baileys Cake](/assets/images/photos/BaileysCake/baileysCake2.jpeg)
 
-Lorem ipsum dolor sit amet
+Covering the cake is a vanilla buttercream, with some Baileys buttercream rosettes acting as a border. I added white and milk chocolate drip for extra extravagance and flair. Then to decorate, there are some mini Baileys of different flavours as well as some Bueno bars and Twirls.
 
 ## Rose Cupcakes
 ![Cupcakes](/assets/images/photos/RoseCupcakes/cupcakes.jpeg)
