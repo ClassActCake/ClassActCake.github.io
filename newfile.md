@@ -1,4 +1,3 @@
-@ -0,0 +1,10 @@
 ---
 layout: default
 title: Test
