@@ -34,6 +34,7 @@ body {
   color: $body-text-color;
 }
 
+
 #skip-to-content {
   height: 1px;
   width: 1px;
@@ -103,6 +104,12 @@ a {
       margin-left: 0;
     }
   }
+}
+
+.socialIcon {
+  width: 5em;
+  height: auto;
+  padding: 1em 1em 1em 1em;
 }
 
 .column {

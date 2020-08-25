@@ -2,8 +2,9 @@
 layout: default
 title: About
 showSiteTitle: true
-description: Page Description
+description: About Class Act Cake
 showDescription: false
+hideFooter: false
 ---
 
 # About
