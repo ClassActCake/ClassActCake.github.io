@@ -9,6 +9,8 @@ showDescription: true
 # Portfolio
 
 ## Contents
+* [19th Birthday Cake](#19th-birthday-cake)
+* [Chocolate Birthday Cake](#chocolate-birthday-cake)
 * [Baileys Cake](#baileys-cake)
 * [Chocolate Lovers' Heaven](#chocolate-lovers-heaven)
 * [Rose Cupcakes](#rose-cupcakes)
@@ -18,6 +20,14 @@ showDescription: true
 * [Under The Sea](#under-the-sea)
 * [Devil's Red Velvet](#devils-red-velvet)
 
+
+## 19th Birthday Cake
+![19th Birthday Cake](/assets/images/photos/PhoebeBirthday/PhoebeBirthday1.jpeg)
+![19th Birthday Cake](/assets/images/photos/PhoebeBirthday/PhoebeBirthday2.jpeg)
+
+## Chocolate Birthday Cake
+![Chocolate Birthday Cake](/assets/images/photos/ChocolateBirthday/ChocolateBirthday1.jpeg)
+![Chocolate Birthday Cake](/assets/images/photos/ChocolateBirthday/ChocolateBirthday2.jpeg)
 
 ## Baileys Cake
 ![Baileys Cake](/assets/images/photos/BaileysCake/baileysCake1.jpeg)
