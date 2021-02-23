@@ -12,4 +12,4 @@ hideTitle: true
 
 Site under construction
 
-![Me with White Chocolate Galore](/assets/images/photos/WhiteChocolateGalore/meWithWhiteChoc2.jpeg)
+![Me with White Chocolate KitKat Cake](/assets/images/photos/WhiteChocKitKat/1.jpeg)
